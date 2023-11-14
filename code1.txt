@@ -5,6 +5,7 @@ const int bien1 = 5;
 int main()
 {
 return 0;
+
 }
 
 //cap nhat bien 1
